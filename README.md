@@ -1,7 +1,7 @@
 <h2 align="left">
 Opa! Me chamo Lukas Ryan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 <abc> 
-<br> Sou um estudante/entusiasta da programação, faço ADS no Centro Universitário UNAb, atualmente estou brincando com Python, HTML, CSS e JS :man_technologist:<br>
+<br> Sou um estudante/entusiasta da programação, faço ADS no Centro Universitário UNA, atualmente estou brincando com Python, HTML, CSS e JS :man_technologist:<br>
 </abc>
 </h2>
  
