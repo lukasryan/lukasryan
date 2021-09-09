@@ -21,7 +21,8 @@ Opa! Me chamo Lukas Ryan <img src="https://user-images.githubusercontent.com/423
 <a href="https://github.com/lukasryan" target="_blank"><img align="center" alt="Lukas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/lukasryan" target="_blank"><img align="center" alt="Lukas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a href="https://github.com/lukasryan" target="_blank"><img align="center" alt="Lukas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-<a href="https://github.com/lukasryan" target="_blank"><img align="center" alt="Lukas-Js" height="49" width="176" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/nav-footer/white.png"></a>
+<a href="https://github.com/lukasryan" target="_blank"><img align="center" alt="Lukas-Wireshark" height="35" width="35" src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4"></a>
+<a href="https://github.com/lukasryan" target="_blank"><img align="center" alt="Lukas-Webex" height="39" width="140" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/nav-footer/white.png"></a>
 </div>
 </h2>
 
